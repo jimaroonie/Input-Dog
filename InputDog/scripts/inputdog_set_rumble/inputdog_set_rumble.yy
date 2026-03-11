@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"inputdog_set_rumble",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"inputdog_set_rumble",
+  "parent":{
+    "name":"inputdog",
+    "path":"folders/Scripts/inputdog.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

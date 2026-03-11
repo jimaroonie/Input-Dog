@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"inputdog_analog",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"inputdog_analog",
+  "parent":{
+    "name":"inputdog",
+    "path":"folders/Scripts/inputdog.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

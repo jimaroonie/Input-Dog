@@ -1,0 +1,134 @@
+Converting GML script: MACRO: GM_version
+String not found: ConversionLog_ConvertedString 1 '1.0.0.1' "1.0.0.1"
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_get_custom_controls_file/inputdog_get_custom_controls_file.gml
+Converted description /// @description inputdog_get_custom_controls_file(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_get_gamepad_input_down/inputdog_get_gamepad_input_down.gml
+Converted description /// @description inputdog_get_gamepad_input_down(slot, directInput
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_load_custom_controls/inputdog_load_custom_controls.gml
+Converted description /// @description inputdog_load_custom_controls(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_load_default_gamepad_mapping/inputdog_load_default_gamepad_mapping.gml
+Converted description /// @description inputdog_load_default_gamepad_mapping(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_load_default_keyboard_mapping/inputdog_load_default_keyboard_mapping.gml
+Converted description /// @description inputdog_load_default_keyboard_mapping(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_save_custom_controls/inputdog_save_custom_controls.gml
+Converted description /// @description inputdog_save_custom_controls(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_add_input/inputdog_add_input.gml
+Converted description /// @description inputdog_add_input(input_as_string,default_keycode_as_ord, default_gamepad_input_as_const
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_check_gamepad_input/inputdog_check_gamepad_input.gml
+Converted description /// @description inputdog_check_gamepad_input(slot, input, directInput
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_find_empty_gamepad_slot/inputdog_find_empty_gamepad_slot.gml
+Converted description /// @description inputdog_find_empty_gamepad_slot(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_find_empty_joystick_slot/inputdog_find_empty_joystick_slot.gml
+Converted description /// @description inputdog_find_empty_joystick_slot(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_find_inputmanager_child_by_player/inputdog_find_inputmanager_child_by_player.gml
+Converted description /// @description inputdog_find_inputmanager_child_by_player(playerslot
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_find_inputmanager_child_by_gamepad/inputdog_find_inputmanager_child_by_gamepad.gml
+Converted description /// @description inputdog_find_inputmanager_child_by_gamepad(gamepadslot, directinput
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_get_gamepad_string/inputdog_get_gamepad_string.gml
+Converted description /// @description inputdog_get_gamepad_string(input
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_get_keyboard_string/inputdog_get_keyboard_string.gml
+Converted description /// @description getKeyboardString(key_code(ord))/// @param key_code(ord
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_is_slot_in_use/inputdog_is_slot_in_use.gml
+Converted description /// @description inputdog_is_slot_in_use(SLOT,dirctInput
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_keyboard_check_direct/inputdog_keyboard_check_direct.gml
+Converted description /// @description inputdog_keyboard_check_direct(ord)/// @param ord
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_search_for_gamepads/inputdog_search_for_gamepads.gml
+Converted description /// @description inputdog_search_for_gamepads(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_search_for_joysticks/inputdog_search_for_joysticks.gml
+Converted description /// @description inputdog_search_for_joysticks(
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_tween/inputdog_tween.gml
+Converted description /// @description  inputdog_tween(ang1,ang2);/// @param ang1
+/// @param ang2
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_analog/inputdog_analog.gml
+Converted description /// @description inputdog_analog(input,player_optional
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_direction/inputdog_direction.gml
+Converted description /// @description inputdog_direction(up,down,left,right,player_optional
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_down/inputdog_down.gml
+Converted description /// @description inputdog_down(input,player_optional
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_pressed/inputdog_pressed.gml
+Converted description /// @description inputdog_pressed(input,player_optional
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_released/inputdog_released.gml
+Converted description /// @description inputdog_released(input,player_optional
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/scripts/inputdog_set_rumble/inputdog_set_rumble.gml
+Converted description /// @description inputdog_set_rumble(val, player_optional
+
+GameMaker Studio 1 font texture has been backed up at /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/fonts/fButton/fButton.gms1.png
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/SaveInputMapping/Create_0.gml
+Converted description /// @description set the tex
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/SaveInputMapping/Alarm_0.gml
+Converted description /// @description reset the tex
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/SaveInputMapping/Mouse_7.gml
+Converted description /// @description save mapping to fil
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/SetInput/Step_0.gml
+Converted description /// @description if selected, listen for inpu
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/StartStopRecording/Step_0.gml
+Converted description /// @description  check for player stopping playbac
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputForPlayer1/Other_10.gml
+Converted description /// @description input
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputForPlayer2/Other_10.gml
+Converted description /// @description input
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputForPlayer3/Other_10.gml
+Converted description /// @description input
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputForPlayer4/Other_10.gml
+Converted description /// @description input
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputManager/Create_0.gml
+Converted description /// @description init
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputManager/Destroy_0.gml
+Converted description /// @description clean up
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputManager/Alarm_0.gml
+Converted description /// @description search for gamepads
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputManager/Step_1.gml
+Converted description /// @description update inputs
+
+Converting GML script: /Users/E19953/Documents/GM_projects/Input-Dog/InputDog.gmx/mvc/objects/InputManager/Other_75.gml
+Converted description /// @description  Gamepad either connected or disconnected
+
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'joystick/joystick_xpos.gml'
+Added compatibility script 'joystick/joystick_check_button.gml'
+Added compatibility script 'joystick/joystick_ypos.gml'
+Added compatibility script 'joystick/__joystick_2_gamepad.gml'
+Added compatibility script 'joystick/joystick_exists.gml'
+Added compatibility script 'joystick/__init_joystick.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'joystick/joystick_process_events.gml'
+Added compatibility script '__global_object_depths.gml'
